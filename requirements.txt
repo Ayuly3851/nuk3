@@ -1,0 +1,6 @@
+discord.py
+dotenv
+pycrypto
+inputimeout 
+pystyle 
+colorama 
