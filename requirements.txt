@@ -3,4 +3,5 @@ python-dotenv
 pycrypto
 inputimeout 
 pystyle 
-colorama 
+colorama
+requests
