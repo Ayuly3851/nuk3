@@ -2,6 +2,7 @@ from Crypto.Cipher import AES
 from base64 import b64encode, b64decode
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 from colorama import init, Fore
+import time
 
 class Crypt:
  

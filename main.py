@@ -22,14 +22,12 @@ else:
 	import json
 
 # import from file
-from src.function_setup.setup import Crypt
-from src.function_setup.setup import consoleLog
-from src.spam import settings
-from src.spam import channel_names
-from src.spam import message_spam
-from src.spam import webhook_names
-
-
+from modules.function_setup.setup import Crypt
+from modules.function_setup.setup import consoleLog
+from modules.spam import settings
+from modules.spam import channel_names
+from modules.spam import message_spam
+from modules.spam import webhook_names
 ######################################setup########################################
 
 Crypt = Crypt()
